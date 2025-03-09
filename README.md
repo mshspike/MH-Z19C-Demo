@@ -9,7 +9,7 @@ This project implements a CO2 monitoring system using the MH-Z19C sensor and Ard
 
 ## Wiring
 
-![MH-Z19C Wiring Diagram](./images/MH-Z19C%20Wiring.fzz)
+![MH-Z19C Wiring Diagram](./images/MH-Z19C%20Wiring.png)
 
 
 ## Pin Connections
