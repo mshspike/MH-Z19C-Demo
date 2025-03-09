@@ -1,6 +1,6 @@
 # MH-Z19C CO2 Sensor with Arduino UNO R4 WiFi
 
-This project implements a CO2 monitoring system using the MH-Z19C sensor and Arduino UNO R4 WiFi board.
+This project implements a CO2 monitoring system using the MH-Z19C sensor and Arduino UNO R4 WiFi board. MH-Z19C uses UART communication protocol via digital pins 2 and 3.
 
 ## Hardware Requirements
 
@@ -8,6 +8,9 @@ This project implements a CO2 monitoring system using the MH-Z19C sensor and Ard
 - MH-Z19C CO2 Sensor
 
 ## Wiring
+
+![MH-Z19C Wiring Diagram](./images/MH-Z19C%20Wiring.fzz)
+
 
 ## Pin Connections
 
